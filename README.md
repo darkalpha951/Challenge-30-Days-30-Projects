@@ -10,3 +10,5 @@ Reference: https://youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&
 Day 1: Completed project "Weather App".
 
 Day 2: Completed project "To-Do List".
+
+Day 3: Completed project "Quiz App".
