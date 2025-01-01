@@ -21,6 +21,8 @@ function waitForClick () {
                 option.style.background = ""
                 option.style.color = ""
                 option.setAttribute("data-correct", false)
+                option.classList.remove("no_cursor")
+                option.style.opacity = ""
             })
             resolve()
         })
@@ -84,9 +86,11 @@ function changeColor(e) {
             optionDiv.style.color = "white"
         }
         options.forEach((op) => {
+            op.classList.add("no_cursor")
             if (op.getAttribute("data-correct") == "true") {
                 op.style.background = "green"
                 op.style.color = "white"
+                op.style.opacity = 1
             }
         })
     }
