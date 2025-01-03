@@ -12,3 +12,7 @@ Day 1: Completed project "Weather App".
 Day 2: Completed project "To-Do List".
 
 Day 3: Completed project "Quiz App".
+
+Day 4: Completed project "Password Generator".
+
+Day 5: Completed project "Notes App".
