@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.father {
+    background-color: #002339;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.main {
+    background-color: transparent;
+    position: absolute;
+    left: 12%;
+}
+
+.header {
+    color: white;
+    font-family: "Poppins";
+    font-size: 40px;
+}
+
+hr {
+    width: 24.2vw;
+}
+
+.search {
+    width: 35vw;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    height: 60px;
+}
+
+input {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    width: 80%;
+}
+
+.copy {
+    cursor: pointer;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.copy:hover {
+    background-color: lightgray;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    background-color: greenyellow;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    font-size: 15px;
+}
+
+button > p {
+    margin: 10px;
+}
