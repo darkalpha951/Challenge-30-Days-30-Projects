@@ -16,3 +16,5 @@ Day 3: Completed project "Quiz App".
 Day 4: Completed project "Password Generator".
 
 Day 5: Completed project "Notes App".
+
+Day 6: Completed Project "Age Calculator"
