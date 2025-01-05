@@ -22,3 +22,5 @@ Day 6: Completed Project "Age Calculator"
 Day 7: Completed Project "Quote Generator"
 
 Day 8: Completed Project "QR Code Generator"
+
+Day 9: Completed Project "Notification Generator"
