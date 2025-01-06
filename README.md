@@ -24,3 +24,5 @@ Day 7: Completed Project "Quote Generator"
 Day 8: Completed Project "QR Code Generator"
 
 Day 9: Completed Project "Notification Generator"
+
+Day 10: Completed Project "Music Player"
