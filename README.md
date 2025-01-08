@@ -28,3 +28,5 @@ Day 9: Completed Project "Notification Generator"
 Day 10: Completed Project "Music Player"
 
 Day 11: Completed Project "Stopwatch"
+
+Day 12: Completed Project "Calculator"
