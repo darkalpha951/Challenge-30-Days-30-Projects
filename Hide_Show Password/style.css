@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+.password {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    width: 20vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hide {
+    display: none;
+}
+
+input {
+    outline: none;
+    border: none;
+    width: 80%;
+}
+
+i {
+    cursor: pointer;
+}
