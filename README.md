@@ -32,3 +32,5 @@ Day 11: Completed Project "Stopwatch"
 Day 12: Completed Project "Calculator"
 
 Day 13: Completed Project "Popup Generator"
+
+Day 14: Completed Project "Hide_Show Password"
