@@ -36,3 +36,5 @@ Day 13: Completed Project "Popup Generator"
 Day 14: Completed Project "Hide_Show Password"
 
 Day 15: Completed Project "Form Validation"
+
+Day 16: Completed Project "Image Gallery"
