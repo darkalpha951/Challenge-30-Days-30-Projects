@@ -38,3 +38,5 @@ Day 14: Completed Project "Hide_Show Password"
 Day 15: Completed Project "Form Validation"
 
 Day 16: Completed Project "Image Gallery"
+
+Day 17: Completed Project "Email Subscription Form With Google Sheets using HTML CSS JS"
