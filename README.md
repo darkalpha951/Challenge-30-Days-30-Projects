@@ -44,3 +44,5 @@ Day 17: Completed Project "Email Subscription Form With Google Sheets using HTML
 Day 18: Completed Project "Password Strength Determiner"
 
 Day 19: Completed Project "Instagram Clone"
+
+Day 20: Completed Project "Text To Speech Converter"
