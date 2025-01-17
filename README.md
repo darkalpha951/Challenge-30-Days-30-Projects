@@ -46,3 +46,5 @@ Day 18: Completed Project "Password Strength Determiner"
 Day 19: Completed Project "Instagram Clone"
 
 Day 20: Completed Project "Text To Speech Converter"
+
+Day 21: Completed Project "Coming Soon Page"
