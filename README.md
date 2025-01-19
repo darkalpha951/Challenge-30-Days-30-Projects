@@ -50,3 +50,5 @@ Day 20: Completed Project "Text To Speech Converter"
 Day 21: Completed Project "Coming Soon Page"
 
 Day 22: Completed Project "Background Change Effect"
+
+Day 23: Complete Project "Mini Calendar"
