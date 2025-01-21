@@ -51,4 +51,6 @@ Day 21: Completed Project "Coming Soon Page"
 
 Day 22: Completed Project "Background Change Effect"
 
-Day 23: Complete Project "Mini Calendar"
+Day 23: Completed Project "Mini Calendar"
+
+Day 24: Completed Project "Select Menu"
