@@ -54,3 +54,5 @@ Day 22: Completed Project "Background Change Effect"
 Day 23: Completed Project "Mini Calendar"
 
 Day 24: Completed Project "Select Menu"
+
+Day 25: Completed Project "Circular Progress Bar"
