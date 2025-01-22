@@ -56,3 +56,5 @@ Day 23: Completed Project "Mini Calendar"
 Day 24: Completed Project "Select Menu"
 
 Day 25: Completed Project "Circular Progress Bar"
+
+Day 26: Completed Project "Digital Clock"
