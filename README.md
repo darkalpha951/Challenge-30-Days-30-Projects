@@ -60,3 +60,5 @@ Day 25: Completed Project "Circular Progress Bar"
 Day 26: Completed Project "Digital Clock"
 
 Day 27: Completed Project "Drag and Drop"
+
+Day 28: Completed Project "Filterable Image Gallary"
