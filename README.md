@@ -62,3 +62,5 @@ Day 26: Completed Project "Digital Clock"
 Day 27: Completed Project "Drag and Drop"
 
 Day 28: Completed Project "Filterable Image Gallary"
+
+Day 29: Completed Project "Screenshot Taker"
