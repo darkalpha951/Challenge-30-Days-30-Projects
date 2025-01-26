@@ -1,6 +1,7 @@
 # Challenge-30-Days-30-Projects
 
 
+(Challenge started on: 28/12/2024)
 
 This is a challenge in which I will complete 30 projects related to web development which include applications of HTML, CSS, JS; within 30 days. All the projects will be added in this repository.
 
@@ -66,3 +67,9 @@ Day 28: Completed Project "Filterable Image Gallary"
 Day 29: Completed Project "Screenshot Taker"
 
 Day 30: Completed Project "User Location Generator"
+
+
+(Challenge finished on: 26/01/2025)
+
+
+Wrapping up the '30 Days, 30 Projects' challenge! It has been an incredible journey of learning and growth. Each project brought unique challenges and insights, making me more confident in HTML, CSS, and JavaScript than ever before!
